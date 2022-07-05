@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.banner-section {
+    width: 90%;
+    margin: 0 auto;
+    background-image: url(images/Group\ 8450.png);
+    background-repeat: no-repeat;
+    background-size: 700px ;
+    background-position: right;
+
+}
+
+.flaxible-area{
+    display: flex;
+}
+
+.width-half {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.width-half h1 {
+    font-size: 70px;
+    color: #575757;
+}
+
+.width-half p {
+    font-size: 20px;
+    color: #999;
+    padding-bottom: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 40px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 40px;
+    margin-top: 30px;
+}
+
+.width-half img{
+    width: 100%;
+    margin-top: -50px;
+}
