@@ -136,8 +136,23 @@ body {
     text-align: center;
 }
 .youtube h1 {
-    font-size:40px;
+    font-size: 48px;
 }
 .youtube p{
     font-size: 18px;
+}
+
+footer{
+    background-color: #151414;
+    text-align: center;
+    padding: 20px;
+}
+
+footer h3{
+    font-size: 30px;
+    color: #fff;
+}
+
+footer p{
+    color: #fff;
 }
